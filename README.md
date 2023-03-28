@@ -12,8 +12,6 @@ Visit this website: https://aturner3x.github.io/My-Portfolio/
 
 View my live projects & git hub repo by pressing the respective buttons.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
 ![portfolio screenshot](./images/portfolio.png)
 
 ## Credits
